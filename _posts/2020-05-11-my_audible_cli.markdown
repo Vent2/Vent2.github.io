@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Audible CLI"
-date:       2020-05-11 19:38:41 +0000
+date:       2020-05-11 15:38:42 -0400
 permalink:  my_audible_cli
 ---
 
